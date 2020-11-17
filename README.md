@@ -38,7 +38,7 @@ index.html
 
 * [Usuarios](https://jsonplaceholder.typicode.com/users) -API
 * [imagenes](http://dummyimage.com/200x200&text={website})
-* 
+  
 ## Autores ✒️
 
 _Delver Villanueva_
