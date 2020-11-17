@@ -53,4 +53,4 @@ _Delver Villanueva_
 * 🤓.
 
 ---
-⌨️ con ❤️ por [Dvillanueva](https://github.com/delvervillanueva) 😊
+⌨️ con ❤️ por [Dvillanueva](https://github.com/delvervillanueva) 😉
